@@ -4,6 +4,7 @@
 
 ![Hero Banner](https://github.com/harris-2025/zynccell-forge/blob/main/docs/banner.png?raw=true)
 
+![Hero Banner](https://github.com/SunFish-dev/zynccell-forge/blob/main/docs/banner.png?raw=true)
 
 
 # ⚡ ZyncCell Forge v1.0
