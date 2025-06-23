@@ -1,3 +1,9 @@
+![ZyncCell Forge Banner](https://github.com/SunFish-dev/zynccell-forge/blob/main/docs/banner.png?raw=true)
+
+# ⚡ ZyncCell Forge v1.0
+從一塊鋁板，打造你的氫能宇宙...
+
+
 # zynccell-forge
 
 ![Hero Banner](https://github.com/sunfish-dev/zynccell-forge/blob/main/docs/banner.png?raw=true)
