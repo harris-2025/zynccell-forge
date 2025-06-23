@@ -1,6 +1,6 @@
 # zynccell-forge
 
-![ZyncCell Forge Banner](https://github.com/harris-2025/zynccell-forge/blob/main/docs/banner.png)
+![ZyncCell Forge Banner](https://github.com/harris2025/zynccell-forge/blob/main/docs/banner.png)
 
 
 # ⚡ ZyncCell Forge v1.0
