@@ -1,4 +1,8 @@
 # zynccell-forge
+
+![ZyncCell Forge Banner](https://github.com/harris-2025/zynccell-forge/blob/main/docs/banner.png)
+
+
 # ⚡ ZyncCell Forge v1.0
 
 **從一塊鋁板，打造你的氫能宇宙**  
